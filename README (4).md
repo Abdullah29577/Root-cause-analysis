@@ -24,13 +24,13 @@ e-commerce dataset.
 ## Dashboard Preview
 
 ### Fulfillment Performance Overview
-![Overview page](images/page1_overview.png)
+![Overview page](page1_overview.png)
 
 ### Root Cause: Where Delays Originate
-![Root cause page](images/page2_rootcause.png)
+![Root cause page](page2_rootcause.png)
 
 ### Customer Impact & Metric Blind Spots
-![Customer impact page](images/page3_impact.png)
+![Customer impact page](page3_impact.png)
 
 ---
 
