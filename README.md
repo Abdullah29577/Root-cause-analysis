@@ -100,6 +100,7 @@ mechanism can't be confirmed from Olist's documentation. But the gap between
 what the metric says and what customers report is real, and it's the kind of
 completeness defect an inventory/quality function exists to catch.
 
+A chi-square test of independence confirms the gap is not chance: χ² = 1158.9, p ≈ 5×10⁻²⁵⁴ (df = 1), on a 47.3% poor-review rate for multi-seller orders versus 13.7% for single-seller. The association is very strong and highly significant — but it's an association, not proof of cause. The split-parcel explanation above remains a hypothesis the test is consistent with, not a confirmed mechanism.
 ---
 
 ## Other findings
